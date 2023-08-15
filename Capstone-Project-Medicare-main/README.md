@@ -9,8 +9,11 @@ MediCare
 
 Developer Details:
 Name: RAJDEEP KUMAR GAUTAM
+<br> 
 Email: r9582161730@gmail.com
+<br> 
 Program Name: Medicare
+<br> 
 GitHub Repository: 
 https://github.com/rajdeepkgautam/JavaFSDCapstoneProject
 
